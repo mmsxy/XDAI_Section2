@@ -1,4 +1,5 @@
-{
+{"homepage": "https://mmsxy.github.io/business-sim-form/"
+
   "name": "business-sim-form",
   "version": "1.0.0",
   "description": "A business simulation form in React",
